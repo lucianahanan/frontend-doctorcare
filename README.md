@@ -30,3 +30,16 @@ While on mobile viewport size, the menu becomes 'modal', filling the page with j
 Added some tab indexes for easy navigation to the important links and added some aria labels for accessibility.
 
 <strong>Notes:</strong>I could have used only CSS for header and mobile states and interactivity, but I decided to do it with Javascript, to push the limits a little bit.
+
+<h2>Example Images</h2>
+<p>Figma Reference<br>
+<a href="./screenshots/figma.jpg"><img src="./screenshots/mobile.gif"></a></p>
+
+<p>Mobile Navigation<br>
+<a href="./screenshots/mobile.gif"><img src="./screenshots/mobile.gif"></a></p>
+
+<p>Tablet Navigation<br>
+<a href="./screenshots/tablet.gif"><img src="./screenshots/mobile.gif"></a></p>
+
+<p>Desktop Navigation<br>
+<a href="./screenshots/desktop.gif"><img src="./screenshots/mobile.gif"></a></p>
