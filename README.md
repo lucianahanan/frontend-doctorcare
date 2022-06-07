@@ -33,13 +33,13 @@ Added some tab indexes for easy navigation to the important links and added some
 
 <h2>Example Images</h2>
 <p>Figma Reference<br>
-<a href="./screenshots/figma.jpg"><img src="./screenshots/mobile.gif"></a></p>
+<a href="./screenshots/figma.jpg"><img src="./screenshots/figma.jpg"></a></p>
 
 <p>Mobile Navigation<br>
 <a href="./screenshots/mobile.gif"><img src="./screenshots/mobile.gif"></a></p>
 
 <p>Tablet Navigation<br>
-<a href="./screenshots/tablet.gif"><img src="./screenshots/mobile.gif"></a></p>
+<a href="./screenshots/tablet.gif"><img src="./screenshots/tablet.gif"></a></p>
 
 <p>Desktop Navigation<br>
-<a href="./screenshots/desktop.gif"><img src="./screenshots/mobile.gif"></a></p>
+<a href="./screenshots/desktop.gif"><img src="./screenshots/desktop.gif"></a></p>
