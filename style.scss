@@ -205,6 +205,11 @@ p {
       overflow: auto;
       position: fixed;
       top: 0;
+
+      button.inverted {
+        justify-content: flex-start;
+        align-items: start;
+      }
     }
   }
 /*#endregion*/

@@ -185,6 +185,8 @@ function toggleMobile(toggle) {
       document.getElementsByTagName("nav")[0].style.display = "flex";
       //fix nav height
       document.getElementsByTagName("nav")[0].classList.add('fixnav');
+      //show button
+      document.querySelector("nav button.inverted").style.display = "block";
     }
 
     if (toggle === 'close') { //console.log('close');
@@ -199,6 +201,8 @@ function toggleMobile(toggle) {
       document.getElementsByTagName("nav")[0].style.display = "none";
       //fix navheight
       document.getElementsByTagName("nav")[0].classList.remove('fixnav');
+      //hide button
+      document.querySelector("nav button.inverted").style.display = "none";
     }
 
     //is desktop

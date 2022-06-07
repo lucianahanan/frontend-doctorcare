@@ -221,6 +221,10 @@ nav.fixnav {
   position: fixed;
   top: 0;
 }
+nav.fixnav button.inverted {
+  justify-content: flex-start;
+  align-items: start;
+}
 
 /*#endregion*/
 /*====================
